@@ -8,7 +8,7 @@ https://kishan-ramesh.github.io/FREECODECAMP-PRODUCT-LANDING-PAGE./
 
 And this is the custom domain of this website.
 
-https://www.kishans-portfolio.ga/product-page/
+https://www.kishans-portfolio.ga/tech-page/
 
 You can use my source code for your projects.
 
