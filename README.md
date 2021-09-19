@@ -4,7 +4,7 @@ This TECH-PAGE website is the final build. This is only a example I expect that 
 
 Here this is the example how the tech-page website looks like.
 
-https://kishan-ramesh.github.io/FREECODECAMP-PRODUCT-LANDING-PAGE./
+https://kishan-ramesh.github.io/FREECODECAMP-TECH-PAGE/
 
 And this is the custom domain of this website.
 
