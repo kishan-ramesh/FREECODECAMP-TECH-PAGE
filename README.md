@@ -6,10 +6,6 @@ Here this is the example how the tech-page website looks like.
 
 https://kishan-ramesh.github.io/FREECODECAMP-TECH-PAGE/
 
-And this is the custom domain of this website.
-
-https://www.kishans-portfolio.ga/tech-page/
-
 You can use my source code for your projects.
 
 #Happy Coding
